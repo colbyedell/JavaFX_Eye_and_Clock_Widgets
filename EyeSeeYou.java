@@ -171,7 +171,5 @@ public class EyeSeeYou extends Pane implements EventHandler<MouseEvent> {
             rightPupil.setLayoutX(x);
             rightPupil.setLayoutY(y);
         }
-    }
-    
-    
+    } 
 }
